@@ -1,0 +1,57 @@
+
+.image1 img{
+    margin-left: 15%;
+    width: 900px;
+}
+
+.image1 p{
+    margin-left: 15%;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+.image2{
+    padding-top: 5;
+}
+.image2 img{
+   width: 700px;
+   margin-left: 100px;
+}
+
+.image2 p{
+    margin-left: 7%;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+.image3 img{
+   width: 900px;
+   margin-left:29% ;
+}
+
+.image3 p{
+    margin-left: 29%;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+.circle{
+    margin: auto;
+    border: 1px solid rgb(199, 198, 198) ;
+    border-radius: 60%;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    margin-top: 10%;
+}
+
+.circle:hover {
+    background-color: black;
+    color: white;
+}
+
+.circle p{
+    text-align: center;
+}
